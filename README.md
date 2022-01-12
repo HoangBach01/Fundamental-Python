@@ -1,4 +1,4 @@
-# Course 1: Fundamentals of Python
+# Fundamentals of Python
 
 - Kiến thức nền tảng về Python – một ngôn ngữ lập trình cấp cao, thông dịch, hướng đối tượng và đa mục đích
 - Sử dụng các cấu trúc trong ngôn ngữ lập trình Python để xây dựng ứng dụng
